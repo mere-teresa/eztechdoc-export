@@ -2,7 +2,7 @@ site_name: eZ Platform Documentation Export Demo
 repo_url: https://github.com/mere-teresa/eztechdoc-export
 #site_favicon: img/favicon.ico
 theme: readthedocs
-theme_dir: templates
+theme_dir: templates/
 #extra_css: [css/custom.css]
 #extra_javascript: [js/extra.js]
 markdown_extensions:
