@@ -1,9 +1,8 @@
-site_name: eZ Platform Documentation Demo
-repo_url: https://github.com/DominikaK/mkdocs-test
-copyright: "Copyright 1999-2017 eZ Systems AS and others"
+site_name: eZ Platform Documentation Export Demo
+repo_url: https://github.com/mere-teresa/eztechdoc-export
 site_favicon: img/favicon.ico
-#pages:
-#    - 'Documentation': 'index.md'
+pages:
+    - 'Documentation': 'index.md'
 #    - Getting started with eZ Platform:
 #        - 'Get started with eZ Platform': 'getting-started/get-started-with-ez-platform.md'
 #        - 'Step 0&#58 Requirements and system configuration': 'getting-started/step-0-requirements-and-system-configuration.md'
