@@ -1,5 +1,5 @@
 site_name: eZ Platform Documentation Demo
-repo_url: https://github.com/DominikaK/mkdocs-test
+repo_url: https://github.com/mere-teresa/eztechdoc-export
 copyright: "Copyright 1999-2017 eZ Systems AS and others"
 site_favicon: img/favicon.ico
 #pages:
@@ -274,9 +274,6 @@ site_favicon: img/favicon.ico
 #        - 'releases/updating-ez-platform.md'
 
 theme: readthedocs
-theme_dir: templates
-extra_css: [css/custom.css]
-extra_javascript: [js/extra.js]
 markdown_extensions:
     - markdown.extensions.admonition
     - markdown.extensions.toc:
