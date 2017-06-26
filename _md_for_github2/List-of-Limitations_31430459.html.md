@@ -1,0 +1,104 @@
+1.  <span>[Developer](index.html)</span>
+2.  <span>[Documentation](Documentation_31429504.html)</span>
+3.  <span>[The Complete Guide to eZ Platform](The-Complete-Guide-to-eZ-Platform_31429526.html)</span>
+4.  <span>[Repository](Repository_31432023.html)</span>
+
+<span id="title-text"> Developer : List of Limitations </span>
+==============================================================
+
+Created by <span class="author"> Dominika Kurek</span>, last modified by <span class="editor"> Sarah Haïm-Lubczanski</span> on May 24, 2016
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Limitation</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><a href="BlockingLimitation_31430461.html">BlockingLimitation</a></td>
+<td align="left">Generic limitation that always tells the permissions system that the user has no access, causing it to continue to the next policy.</td>
+</tr>
+<tr class="even">
+<td align="left"><p><a href="ContentTypeLimitation_31430463.html">ContentTypeLimitation</a></p></td>
+<td align="left"><span>Limits content access depending on its Content Type.</span></td>
+</tr>
+<tr class="odd">
+<td align="left"><p><a href="LanguageLimitation_31430465.html">LanguageLimitation</a></p></td>
+<td align="left"><span>Limits content access depending on its Language.</span></td>
+</tr>
+<tr class="even">
+<td align="left"><p><a href="LocationLimitation_31430467.html">LocationLimitation</a></p></td>
+<td align="left"><span>Limits content access depending on its Location.</span></td>
+</tr>
+<tr class="odd">
+<td align="left"><a href="NewObjectStateLimitation_31430469.html">NewObjectStateLimitation</a></td>
+<td align="left"><span>Limits content ObjectState assignment access depending on new state.</span></td>
+</tr>
+<tr class="even">
+<td align="left"><p><a href="NewSectionLimitation_31430471.html">NewSectionLimitation</a></p></td>
+<td align="left"><span>Limits content Section assignment access depending on new Section.</span></td>
+</tr>
+<tr class="odd">
+<td align="left"><p><a href="ObjectStateLimitation_31430473.html">ObjectStateLimitation</a></p></td>
+<td align="left"><span>Limits content access depending on its ObjectStates.</span></td>
+</tr>
+<tr class="even">
+<td align="left"><p><a href="OwnerLimitation_31430475.html">OwnerLimitation</a></p></td>
+<td align="left"><span>Limits content access depending on its owner; access is only granted to the owner of the content.</span></td>
+</tr>
+<tr class="odd">
+<td align="left"><p><a href="ParentContentTypeLimitation_31430477.html">ParentContentTypeLimitation</a></p></td>
+<td align="left"><span>Limits content (create) access depending on parent location Content Type; access is only granted if the parent is of this type of content.</span></td>
+</tr>
+<tr class="even">
+<td align="left"><p><a href="ParentDepthLimitation_31430480.html">ParentDepthLimitation</a></p></td>
+<td align="left"><span>Limits content (create) access depending on parent location depth; access is only granted if the parent is at a given depth of the tree structure.</span></td>
+</tr>
+<tr class="odd">
+<td align="left"><p><a href="ParentOwnerLimitation_31430482.html">ParentOwnerLimitation</a></p></td>
+<td align="left"><span>Limits content (create) access depending on parent location <span>content</span> owner; access is only granted if to the owner of the Content item's parent.</span></td>
+</tr>
+<tr class="even">
+<td align="left"><p><a href="ParentUserGroupLimitation_31430484.html">ParentUserGroupLimitation</a></p></td>
+<td align="left"><span>Limits content (create) access depending on parent location <span>content</span> owner's User group; access is only granted to a User in the same User group as owner of <span>the Content item's </span>parent.</span></td>
+</tr>
+<tr class="odd">
+<td align="left"><p><a href="SectionLimitation_31430486.html">SectionLimitation</a></p></td>
+<td align="left">Limits content access depending on its Section.</td>
+</tr>
+<tr class="even">
+<td align="left"><p><a href="SiteAccessLimitation_31430488.html">SiteAccessLimitation</a></p></td>
+<td align="left">Limits access to an action depending on siteaccess, typically used for user/login.</td>
+</tr>
+<tr class="odd">
+<td align="left"><p><a href="SubtreeLimitation_31430490.html">SubtreeLimitation</a></p></td>
+<td align="left"><span>Limits content access depending on its subtree.</span></td>
+</tr>
+<tr class="even">
+<td align="left"><a href="UserGroupLimitation_31430492.html">UserGroupLimitation</a></td>
+<td align="left"><span>Limits content access depending on its owner's User group; access is only granted to a User in the same User group as the owner.</span></td>
+</tr>
+</tbody>
+</table>
+
+c
+
+ 
+
+#### In this topic:
+
+#### Related topics:
+
+[Permissions](https://doc.ez.no/display/DEVELOPER/Repository#Repository-Permissions)
+
+Document generated by Confluence on Mar 24, 2017 17:19
+
+[Atlassian](http://www.atlassian.com/)
+
+
