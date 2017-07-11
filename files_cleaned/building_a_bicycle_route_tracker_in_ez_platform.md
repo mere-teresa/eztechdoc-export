@@ -1,0 +1,154 @@
+1.  <span>[Developer](index.html)</span>
+2.  <span>[Documentation](Documentation_31429504.html)</span>
+3.  <span>[Tutorials](Tutorials_31429522.html)</span>
+
+<span id="title-text"> Developer : Building a Bicycle Route Tracker in eZ Platform </span> {#title-heading .pagetitle}
+==========================================================================================
+
+Created by <span class="author"> Sarah Haïm-Lubczanski</span>, last
+modified on Jan 09, 2017
+
+Building a Website with eZ Platform {#BuildingaBicycleRouteTrackerineZPlatform-BuildingaWebsitewitheZPlatform}
+===================================
+
+<span
+class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size">![](attachments/31431606/31431605.png){.confluence-embedded-image
+.image-right height="250"}</span>
+
+ This tutorial is a step-by-step guide to building an eZ Platform
+website from the ground up. <span style="color: rgb(0,51,102);">All
+instructions and steps are based on version [<span
+style="color: rgb(0,51,102);">1.7.0</span>](eZ-Platform-v1.7.0-LTS_32868941.html)</span><span
+style="color: rgb(0,51,102);"> of eZ Platform released on December 15,
+2016.</span>
+
+This tutorial applies a learning-by-doing method to demonstrate how [eZ
+Platform](https://ezplatform.com/){.external-link} can be used to build
+a great website.
+
+Throughout this guide we will take you through the process of building a
+website in a series of steps using best practices for the most effective
+developer experience.
+
+ 
+
+Intended Audience {#BuildingaBicycleRouteTrackerineZPlatform-IntendedAudience}
+-----------------
+
+This tutorial is intended for users who have little or no previous
+experience with the eZ Platform user interface.
+
+Some general knowledge of web development would certainly be helpful.
+
+To follow this tutorial, you should:
+
+-   Have basic knowledge of HTML and CSS.
+-   Have basic knowledge of the database you’ve selected.
+
+ 
+
+<span
+class="confluence-embedded-file-wrapper">![](attachments/32868603/32868702.png){.confluence-embedded-image}</span>
+ 
+
+Learning Outcomes {#BuildingaBicycleRouteTrackerineZPlatform-LearningOutcomes}
+-----------------
+
+After going through this tutorial, you will:
+
+-   Have a basic understanding of setting up an eZ Platform application.
+
+-   Have some hands-on experience designing, developing and deploying a
+    demo eZ Platform website.
+-   Have developed the skills to run your own eZ Platform website.
+
+The Story Behind the Tutorial - Bike Rides {#BuildingaBicycleRouteTrackerineZPlatform-TheStoryBehindtheTutorial-BikeRides}
+==========================================
+
+We’ll work according to the following story:
+
+**The Story**
+
+*A good friend has a spreadsheet which details all her bike rides, and
+she knows you are a professional webmaster. She asks for your help in
+building a website detailing the rides. She wants to upload photos from
+each ride.*  
+*She has no experience with web development. Some of her friends are
+interested in browsing and searching her “ride log”. In the near future,
+she wants to be able to add rides by herself, and even open this
+possibility to her friends.*
+
+**Specifications**
+
+The “customer” requirements are:
+
+-   A list of all rides in table form
+-   Viewing photos of a ride
+
+**More to come…**
+
+-   <span
+    class="status-macro aui-lozenge aui-lozenge-current aui-lozenge-subtle">WORK
+    IN PROGRESS</span> *Ordering rides  
+    *
+-   <span
+    class="status-macro aui-lozenge aui-lozenge-current aui-lozenge-subtle">WORK
+    IN PROGRESS</span> *Searching for a ride by starting place or length
+    in km*
+-   <span
+    class="status-macro aui-lozenge aui-lozenge-current aui-lozenge-subtle">WORK
+    IN PROGRESS</span> *Commenting on rides*
+
+<span
+class="aui-icon aui-icon-small aui-iconfont-approve confluence-information-macro-icon"></span>
+Getting Help {#BuildingaBicycleRouteTrackerineZPlatform-GettingHelp}
+============
+
+If you have any questions, feel free to reach out to us or our [awesome
+community](http://share.ez.no/get-involved/exchange){.external-link} for
+help!
+
+<span class="char" title="Black Rightwards Arrow"> </span>  
+<span class="char" title="Black Rightwards Arrow"> </span>
+
+ 
+
+Next: <span class="confluence-link">[Part 1: Setting up eZ
+Platform](31431610.html)</span> <span class="char"
+title="Black Rightwards Arrow">➡  
+</span>
+
+<span class="char" title="Black Rightwards Arrow">  
+</span>
+
+ 
+
+ 
+
+ 
+
+**Tutorial path**
+
+ 
+
+ 
+
+ 
+
+ 
+
+Attachments: {#attachments .pageSectionTitle}
+------------
+
+![](images/icons/bullet_blue.gif){width="8" height="8"}
+[pulley-ibex.png](attachments/31431606/32113253.png) (image/png)  
+![](images/icons/bullet_blue.gif){width="8" height="8"}
+[pulley\_ibex.png](attachments/31431606/32113252.png) (image/png)  
+![](images/icons/bullet_blue.gif){width="8" height="8"}
+[pulley-ibex.png](attachments/31431606/31431605.png) (image/png)  
+
+Document generated by Confluence on Mar 24, 2017 17:19
+
+[Atlassian](http://www.atlassian.com/)
+
+
